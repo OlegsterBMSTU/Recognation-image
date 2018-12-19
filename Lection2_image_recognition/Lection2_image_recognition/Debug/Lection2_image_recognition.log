@@ -1,0 +1,12 @@
+﻿  Lection2_image_recognition.cpp
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(28): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(72): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(76): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(138): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(153): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(166): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(144): warning C4102: metka1: неиспользованная метка
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(224): warning C4102: metka3: неиспользованная метка
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(274): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\lection2_image_recognition\lection2_image_recognition\lection2_image_recognition.cpp(354): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lection2_image_recognition.vcxproj -> C:\Users\User\source\repos\Lection2_image_recognition\Debug\Lection2_image_recognition.exe
